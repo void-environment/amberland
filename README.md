@@ -7,9 +7,7 @@ Flutter for VSCode,
 [Flutter SDK](https://hrk-flutter-website.web.app/docs/get-started/install/windows),
 [Android SDK Command-line Tools (latest).](https://i.sstatic.net/YGmH2.png)
 
-
-## Эмулятор
-Запустить команды
+## Запустить команды
 
 ```bash
 flutter pub get
